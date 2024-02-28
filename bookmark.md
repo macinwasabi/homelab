@@ -1,5 +1,5 @@
-# homelab/dev
-開発についてのメモ。
+# homelab/bookmark
+開発などのブックマークやメモ。
 
 # 全体
 [有名企業のエンジニア向け研修資料まとめ](https://qiita.com/KNR109/items/f3268b311e11d5b821c0)
