@@ -5,6 +5,14 @@
 [有名企業のエンジニア向け研修資料まとめ](https://qiita.com/KNR109/items/f3268b311e11d5b821c0)
 [確認するべきGitHubリポジトリ40選](https://zenn.dev/nameless_sn/articles/awesome_githubrepo_for_2022#web)
 
+# サイト
+[プログラマーが情報収集で必ず確認するべきWEBサイト 8選](https://zenn.dev/nameless_sn/articles/how_to_gather_information)
+
+# git
+githubでhomelabタグを漁る。
+https://twitter.com/tsukkkkkun/status/1623289297532252160?s=61&t=JRbOUQodyAU54nrdHwpkaA
+https://www.youtube.com/watch?v=hS4kRE3OmGs
+
 # Web
 [海外・国内の便利なAPI一覧](https://api.app-rox.com)
 [Shota Nukumizuさんのツイート「個人でもつかえる！おすすめAPI一覧」](https://twitter.com/nameless_sn/status/1635913760194822145?s=61&t=LPUn5ug1kgoBGD7NSVphug)
