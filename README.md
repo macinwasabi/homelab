@@ -4,6 +4,6 @@
 
 # [ラズパイの環境構築](/raspberrypi.md)
 
-# [開発メモ](/dev.md)
+# [各ブックマーク](/bookmark.md)
 
 # [疑問メモ](/question.md)
